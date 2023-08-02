@@ -1,4 +1,4 @@
-Olá, seja muito bem-vindo(a) ao meu perfil! 😀
+Olá, seja muito bem-vindo(a) ao meu perfil!
 
 
 <div style="display: inline_block"><br>
