@@ -3,7 +3,7 @@
 Olá! Bem-vindo ao meu perfil no GitHub. Sou Gustavo, um estudante de 21 anos atualmente cursando Engenharia da computação na Univesp. Estou constantemente aprimorando minhas habilidades nesse campo.
 
 ## Sobre Mim
-- 👨‍🎓 Atualmente, estou cursando Engenharia da Computação na Univesp.
+- 👨‍🎓 Atualmente, estou cursando Engenharia da computação na Univesp.
 - 📚 Sou aluno da escola Ada Tech, conhecida por sua excelência no ensino de tecnologias da informação.
 - 🚀 Estou me aprofundando em tecnologias fundamentais para o desenvolvimento web, incluindo HTML, CSS, JavaScript, ReactJS e TypeScript.
 
