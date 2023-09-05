@@ -1,6 +1,6 @@
 # Gustavo de Sousa Lima - Developer
 
-Olá! Bem-vindo ao meu perfil no GitHub. Sou Gustavo, um estudante de 21 anos atualmente cursando Engenharia da Computação na Univesp. Estou constantemente aprimorando minhas habilidades nesse campo.
+Olá! Bem-vindo ao meu perfil no GitHub. Sou Gustavo, um estudante de 21 anos atualmente cursando Engenharia da computação na Univesp. Estou constantemente aprimorando minhas habilidades nesse campo.
 
 ## Sobre Mim
 - 👨‍🎓 Atualmente, estou cursando Engenharia da Computação na Univesp.
