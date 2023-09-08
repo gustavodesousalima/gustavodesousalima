@@ -1,6 +1,6 @@
 # Gustavo de Sousa Lima - Developer
 
-Olá! Bem-vindo ao meu perfil no GitHub. Sou Gustavo, um estudante de 21 anos atualmente cursando Engenharia da Computação na Univesp. Estou constantemente aprimorando minhas habilidades nesse campo.
+Olá! Bem-vindo ao meu perfil. Me chamo Gustavo, e atualmente estou cursando Engenharia da Computação na Univesp. Estou constantemente aprimorando minhas habilidades nesse campo.
 
 ## Sobre Mim
 - 👨‍🎓 Atualmente, estou cursando Engenharia da Computação na Univesp.
@@ -8,7 +8,7 @@ Olá! Bem-vindo ao meu perfil no GitHub. Sou Gustavo, um estudante de 21 anos at
 - 🚀 Estou me aprofundando em tecnologias fundamentais para o desenvolvimento web, incluindo HTML, CSS, JavaScript, ReactJS e TypeScript.
 
 ## Minhas Atividades no GitHub
-No meu perfil do GitHub, você encontrará projetos relacionados a front-end, onde aplico e demonstro meu aprendizado nas tecnologias mencionadas. Além disso, estou sempre aberto a colaborações e feedback construtivo.
+No meu perfil, você encontrará projetos relacionados a front-end, onde aplico e demonstro meu aprendizado nas tecnologias mencionadas. Além disso, estou sempre aberto a colaborações e feedback construtivo.
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo. Estou ansioso para colaborar em projetos desafiadores e aprender com a comunidade do GitHub.👋
 
