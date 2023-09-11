@@ -12,9 +12,11 @@ No meu perfil, você encontrará projetos relacionados a front-end, onde aplico 
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo. Estou ansioso para colaborar em projetos desafiadores e aprender com a comunidade do GitHub.👋
 
-<div style="display: inline_block"><br>
- [![Minhas habilidades](https://skills.thijs.gg/icons ?i=js,html,css,wasm )](https://skills.thijs.gg)
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,mysql,nodejs,react,ts" />
+  </a>
+</p>
   
   ##
  
