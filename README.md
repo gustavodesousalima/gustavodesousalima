@@ -1,4 +1,4 @@
-# Gustavo de Sousa Lima - Developer
+# Gustavo de Sousa Lima - front end developer
 
 Olá! Bem-vindo ao meu perfil. Me chamo Gustavo, e atualmente estou cursando Engenharia da Computação na Univesp. Estou constantemente aprimorando minhas habilidades nesse campo.
 
@@ -13,9 +13,7 @@ No meu perfil, você encontrará projetos relacionados a front-end, onde aplico 
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo. Estou ansioso para colaborar em projetos desafiadores e aprender com a comunidade do GitHub.👋
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ [![Minhas habilidades](https://skills.thijs.gg/icons ?i=js,html,css,wasm )](https://skills.thijs.gg)
 </div>
   
   ##
