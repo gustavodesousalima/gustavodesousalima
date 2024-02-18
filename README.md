@@ -21,3 +21,8 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato comigo. Esto
   <a href="https://www.linkedin.com/in/Gustavo-Developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<p > 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/gustavodesousalima/count.svg" />
+</p>
