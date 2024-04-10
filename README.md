@@ -3,8 +3,8 @@
 Olá! Bem-vindo ao meu perfil. Me chamo Gustavo e sou desenvolvedor de software com paixão por criar soluções tecnológicas. Atualmente, estou cursando Engenharia da Computação na Univesp.
 
 ## Sobre Mim
-💻 Atualmente trabalho como Software Developer na Salez Technology;
-👨‍🎓 Sou estudante de Engenharia da Computação na Univesp;
+💻 Atualmente trabalho como Software Developer na Salez Technology.
+👨‍🎓 Sou estudante de Engenharia da Computação na Univesp.
 🚀 Tenho experiência em tecnologias fundamentais tanto no desenvolvimento front-end quanto no back-end.
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo. Estou ansioso para colaborar em projetos desafiadores.👋
