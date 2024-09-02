@@ -1,6 +1,6 @@
 # Gustavo de Sousa Lima - Software Developer
 
-Olá! Bem-vindo ao meu perfil. Me chamo Gustavo e sou desenvolvedor de software com paixão por criar soluções tecnológicas. Atualmente, estou cursando Engenharia da Computação na Univesp.
+Olá! Bem-vindo ao meu perfil. Me chamo Gustavo e sou desenvolvedor de software. Atualmente, estou cursando Engenharia da Computação na Univesp.
 
 ## Sobre Mim
 👨‍🎓 Sou estudante de Engenharia da Computação na Univesp.
