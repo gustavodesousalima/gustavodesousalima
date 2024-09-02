@@ -2,6 +2,8 @@
 
 Olá! Bem-vindo ao meu perfil. Me chamo Gustavo e sou desenvolvedor de software. Atualmente, estou cursando Engenharia da Computação na Univesp.
 
+Atualmente venho estudando sobre inteligência artificial e ML, buscando entender quais são as melhores técnicas para aplicar no dia a dia, melhorando processos e produtos através dessas ferramentas.
+
 ## Sobre Mim
 👨‍🎓 Sou estudante de Engenharia da Computação na Univesp.
 
