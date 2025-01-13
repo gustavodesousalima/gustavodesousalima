@@ -13,10 +13,10 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato comigo.👋
 
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css" />
-<img src="https://skillicons.dev/icons?i=js,git,mysql,postgres" />
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,nodejs,react,vite,ts,py,go" />
-<img src="https://skillicons.dev/icons?i=java,spring,aws,gcp,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css" /><br/>
+    <img src="https://skillicons.dev/icons?i=js,git,mysql,postgres" /><br/>
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,nodejs,react,vite,ts,py,go" /><br/>
+    <img src="https://skillicons.dev/icons?i=java,spring,aws,gcp,docker,linux" />
   </a>
 </p>
   
