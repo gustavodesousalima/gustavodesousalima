@@ -9,11 +9,11 @@ Atualmente venho estudando sobre inteligência artificial e ML, buscando entende
 
 🚀 Tenho experiência em tecnologias fundamentais tanto no desenvolvimento front-end quanto no back-end.
 
-Sinta-se à vontade para explorar meus projetos e entrar em contato comigo. Estou ansioso para colaborar em projetos desafiadores.👋
+Sinta-se à vontade para explorar meus projetos e entrar em contato comigo.👋
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,mysql,postgres,firebase,nodejs,react,ts,py,aws,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,mysql,postgres,mongodb,firebase,nodejs,react,vite,ts,py,go,java,spring,aws,gcp,docker,linux" />
   </a>
 </p>
   
