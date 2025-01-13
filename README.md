@@ -15,8 +15,8 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato comigo.👋
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css" /><br/>
     <img src="https://skillicons.dev/icons?i=js,git,mysql,postgres" /><br/>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,nodejs,react,vite,ts,py,go" /><br/>
-    <img src="https://skillicons.dev/icons?i=java,spring,aws,gcp,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=java,spring,aws,gcp,docker,linux" /><br/>
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,nodejs,react,vite,ts,py,go" />
   </a>
 </p>
   
