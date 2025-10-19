@@ -30,5 +30,5 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato comigo.👋
 
 <p > 
   Visitantes<br>
-  <img src="https://profile-counter.glitch.me/gustavodesousalima/count.svg" />
+  <img src="https://profile-counter.deno.dev/gustavodesousalima/count.svg" alt="Gustavo de Sousa Lima Visitor's Count" />
 </p>
